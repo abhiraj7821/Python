@@ -14,4 +14,6 @@ def timer (func):
 
 @timer
 def example_function(n):
-    time.sleep(n)
+    print("Hi")
+
+example_function(5)
