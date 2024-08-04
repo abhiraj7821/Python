@@ -1,20 +1,17 @@
-1. Numbers: 1,2,3,4,5,3+4j,ob11,Decimal()
-    12*12=24
-    2 ** 100 (2 to the power 100)
-    import math
-    math.pt=3.14
-    import random 
-    random.choice(1,2,3,4,5);
-2. String
-    username="abhiraj7821"
-    len(username)=10 //this gives the length of the string
-3. List
-4. mylist
-5. tuple
-6. Dictionary
-7. set
-8. File
-9. Boolean
-10. None
-11. Functions
-12. Advance: Decorators, Generators, Iterators,Meta Programming
+# Object Types / Data Types
+
+- Number : 1234, 3.1415, 3+4j, 0b111, Decimal(), Fraction()
+- String : 'spam', "Bob's", b'a\x01c', u'sp\xc4m'
+- List : [1, [2, 'three'], 4.5], list(range(10))
+- Tuple : (1, 'spam', 4, 'U'), tuple('spam'), namedtuple
+- Dictionary : {'food': 'spam', 'taste': 'yum'}, dict(hours=10)
+
+- Set : set('abc'), {'a', 'b', 'c'}
+
+- File : open('eggs.txt'), open(r'C:\ham.bin', 'wb')
+
+- Boolean : True, False
+- None : None
+- Funtions, modules, classes
+
+- Advance: Decorators, Generators, Iterators, MetaProgramming
