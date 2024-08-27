@@ -1,0 +1,6 @@
+f = open("names.txt", "w")
+f.write("hello world")
+f.close()
+f = open("names.txt", "r")
+print(f.read())
+f.close()
